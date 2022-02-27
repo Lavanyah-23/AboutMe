@@ -4,22 +4,17 @@
 
 ### 🎖️ Extensive experience 
 
-- Recruting, training, and leading teams
-- Planning and overseeing long term projects
-- Teaching and mentoring students
+
 
 ### 🔥 Deep passion 
 
-- Learning
-- Teaching & E-ducation
-- Helping others achieve their career goals
-- Technology and its power to revolutionise education
+
 
 ### ℹ️ More info
 
-- [LinkedIn](https://www.linkedin.com/in/david-rajcher/)
-- [Articles](https://david-l-r.medium.com/)
-- [Website](https://davidrajcher.com)
+- [LinkedIn]()
+- [Articles]()
+- [Website](
 
 ### 🤖 Preferred technologies
 
@@ -44,8 +39,4 @@
 
 ### 🔭 2022 learning path
 
-- Rational databases
-- Algorithms & Data structures (and some Python)
-- Animation and SVGs manipulations
-- Docker 
-- K8S
+
