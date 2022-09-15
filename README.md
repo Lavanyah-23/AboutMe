@@ -6,7 +6,7 @@
 - Intensive 10 week BootCamp at Codaisseur as Full Stack Javascript developer from january 2022 - march 2022
 - Software Developer from 2013-2015
 ### 🔥 Deep passion 
-- To Dive deep and learn new technologies like TypeScrip, GrahQL and many more
+- To Dive deep and learn new technologies like TypeScrip, GrahQL and vue.js and many more
 ### ℹ️ More info
 
 - [LinkedIn](www.linkedin.com/in/lavanyapvl)
