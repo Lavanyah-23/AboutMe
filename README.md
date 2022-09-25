@@ -3,8 +3,10 @@
 # fullStack Developer
 
 ### 🎖️ Experience 
+
 - Intensive 10 week BootCamp at Codaisseur as Full Stack Javascript developer from january 2022 - march 2022
 - Software Developer from 2013-2015
+
 ### 🔥 Deep passion 
 - To Dive deep and learn new technologies like TypeScrip, GrahQL and vue.js and many more
 ### ℹ️ More info
@@ -14,7 +16,7 @@
 
 - Languages: Javascript (HTML & CSS)
 - Frontend Libraries: React
-- Frontend Frameworks: NextJS
+- Frontend Frameworks: NextJS C#.net
 - More CSS: CSS-in-JS 
 - Backend: Node & Express
 
