@@ -9,6 +9,7 @@
 
 ### 🔥 Deep passion 
 - To Dive deep and learn new technologies like TypeScrip, GrahQL and vue.js and many more
+- Interested in Cloud Technologies  AWS (Certified Cloud Practitioner) and Azure
 ### ℹ️ More info
 
 - [LinkedIn](www.linkedin.com/in/lavanyapvl)
