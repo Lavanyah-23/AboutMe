@@ -15,11 +15,12 @@
 - [LinkedIn](www.linkedin.com/in/lavanyapvl)
 ### 🤖 Technologies
 
-- Languages: Javascript (HTML & CSS)
-- Frontend Libraries: React
+- Languages: Javascript (HTML & CSS) 
+- Frontend Libraries: React 
 - Frontend Frameworks: NextJS C#.net
 - More CSS: CSS-in-JS 
-- Backend: Node & Express
+- Backend: Node  Express  SQL Python
+- cloud Technologies: AWS (Certified Cloud Practitioner)
 
 - Version control: GIT
 
