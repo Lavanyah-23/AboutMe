@@ -5,6 +5,7 @@
 ### 🎖️ Experience 
 
 - Intensive 10 week BootCamp at Codaisseur as Full Stack Javascript developer from january 2022 - march 2022
+- Dance Teacher 2018-2020
 - Software Developer from 2013-2015
 
 ### 🔥 Deep passion 
